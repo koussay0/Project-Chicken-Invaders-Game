@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>chicken.png</file>
+        <file>red_laser.png</file>
+        <file>ship.png</file>
+        <file>enemy.jpeg</file>
+    </qresource>
+    <qresource prefix="/Aud">
+        <file>shot.mp3</file>
+        <file>destruction.m4a</file>
+        <file>bgsound.mp3</file>
+        <file>bulletshot.wav</file>
+        <file>GameOver.wav</file>
+    </qresource>
+</RCC>
